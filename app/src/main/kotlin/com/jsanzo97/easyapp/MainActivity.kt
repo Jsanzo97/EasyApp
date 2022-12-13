@@ -1,4 +1,4 @@
-package com.example.generic
+package com.jsanzo97.easyapp
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

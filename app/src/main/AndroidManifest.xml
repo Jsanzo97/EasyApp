@@ -10,7 +10,7 @@
         android:supportsRtl="true">
 
         <activity
-            android:name="com.example.generic.MainActivity"
+            android:name="com.example.generic.com.jsanzo97.easyapp.MainActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">

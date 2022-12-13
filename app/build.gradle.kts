@@ -33,7 +33,7 @@ configure<com.android.build.gradle.internal.dsl.BaseAppModuleExtension> {
     }
 
     defaultConfig.apply {
-        applicationId = "com.example.generic"
+        applicationId = "com.jsanzo97.easyapp"
         minSdk = Versions.minSdk
         targetSdk = Versions.targetSdk
         versionCode = appVersionCode
